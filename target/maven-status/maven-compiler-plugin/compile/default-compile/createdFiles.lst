@@ -1,0 +1,11 @@
+com/book/management/entities/Book.class
+com/book/management/util/DateFormatter.class
+com/book/management/services/BookService.class
+com/book/management/util/BookGrid.class
+com/book/management/util/Message.class
+com/book/management/services/BookServiceImpl.class
+com/book/management/init/WebInitializer.class
+com/book/management/web/SecurityController.class
+com/book/management/util/UrlUtil.class
+com/book/management/web/BookController.class
+com/book/management/repos/BookRepository.class

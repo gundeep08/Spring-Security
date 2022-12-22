@@ -1,0 +1,12 @@
+insert into book (category_name, isbn, title, publisher, price) values ('MVC', '123456', 'Flex with Spring', 'Michael', 48.99);
+insert into book (category_name, isbn, title, publisher, price) values ('MVC', '123457', 'Learn Struts', 'Zurich', 32.99);
+insert into book (category_name, isbn, title, publisher, price) values ('ORM', '123458', 'Mater JPA', 'Vivian', 56.99);
+insert into book (category_name, isbn, title, publisher, price) values ('ORM', '123459', 'MyBatis Proficient', 'Cathy', 23.29);
+insert into book (category_name, isbn, title, publisher, price) values ('ORM', '123460', 'Hit By Hibernate', 'Patrick', 66.49);
+insert into book (category_name, isbn, title, publisher, price) values ('DBA', '123461', 'Walk MySQL', 'Brenda', 18.00);
+insert into book (category_name, isbn, title, publisher, price) values ('DBA', '123462', 'Shine Oracle', 'Sobers', 88.99);
+insert into book (category_name, isbn, title, publisher, price) values ('DBA', '123463', 'Manage MongoDB', 'Wright', 78.29);
+insert into book (category_name, isbn, title, publisher, price) values ('DBA', '123464', 'Dream Dynamo', 'Nancy', 54.99);
+insert into book (category_name, isbn, title, publisher, price) values ('MVC', '123465', 'Power of Django', 'Brian', 38.99);
+insert into book (category_name, isbn, title, publisher, price) values ('MVC', '123466', 'Evolve with Angular', 'Gray', 42.99);
+insert into book (category_name, isbn, title, publisher, price) values ('ORM', '123467', 'Configure with Ibatis', 'Tred', 28.99);
